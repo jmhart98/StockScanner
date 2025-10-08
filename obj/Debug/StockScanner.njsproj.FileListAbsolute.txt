@@ -1,0 +1,3 @@
+C:\Users\jmhar\source\repos\StockScanner\obj\Debug\StockScanner.njsproj.AssemblyReference.cache
+C:\Users\jmhar\source\repos\StockScanner\obj\Debug\StockScanner.njsproj.CoreCompileInputs.cache
+C:\Users\jmhar\source\repos\StockScanner\bin\Microsoft.NodejsTools.WebRole.dll

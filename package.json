@@ -1,0 +1,9 @@
+{
+  "name": "stock-scanner",
+  "version": "0.0.0",
+  "description": "StockScanner",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
